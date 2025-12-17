@@ -5,6 +5,11 @@ authors = []
 telemetry = false
 cache_dir = '.\.cache'
 requirements = []
+[contracts.achievement-badge]
+path = 'contracts/achievement-badge.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.auth-registry]
 path = 'contracts/auth-registry.clar'
 clarity_version = 3
