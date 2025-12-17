@@ -20,6 +20,11 @@ path = 'contracts/liquidity-pool.clar'
 clarity_version = 3
 epoch = 'latest'
 
+[contracts.math-utils]
+path = 'contracts/math-utils.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.message-board]
 path = 'contracts/message-board.clar'
 clarity_version = 3
