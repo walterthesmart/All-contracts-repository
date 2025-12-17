@@ -25,6 +25,11 @@ path = 'contracts/non-fungible-token.clar'
 clarity_version = 3
 epoch = 'latest'
 
+[contracts.permission-manager]
+path = 'contracts/permission-manager.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.proposal-submission]
 path = 'contracts/proposal-submission.clar'
 clarity_version = 3
