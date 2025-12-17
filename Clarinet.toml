@@ -10,6 +10,11 @@ path = 'contracts/fungible-token.clar'
 clarity_version = 3
 epoch = 'latest'
 
+[contracts.liquidity-pool]
+path = 'contracts/liquidity-pool.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.non-fungible-token]
 path = 'contracts/non-fungible-token.clar'
 clarity_version = 3
