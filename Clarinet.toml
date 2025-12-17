@@ -29,6 +29,11 @@ epoch = 'latest'
 path = 'contracts/sip-010-trait.clar'
 clarity_version = 3
 epoch = 'latest'
+
+[contracts.voting-poll]
+path = 'contracts/voting-poll.clar'
+clarity_version = 3
+epoch = 'latest'
 [repl.analysis]
 passes = ['check_checker']
 
