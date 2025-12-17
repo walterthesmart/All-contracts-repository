@@ -5,6 +5,11 @@ authors = []
 telemetry = false
 cache_dir = '.\.cache'
 requirements = []
+[contracts.data-registry]
+path = 'contracts/data-registry.clar'
+clarity_version = 3
+epoch = 'latest'
+
 [contracts.fungible-token]
 path = 'contracts/fungible-token.clar'
 clarity_version = 3
