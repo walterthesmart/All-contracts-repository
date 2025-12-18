@@ -1,6 +1,0 @@
-(define-read-only (multiply (a uint) (b uint))
-    (ok (* a b))
-)
-(define-read-only (power (a uint) (b uint))
-    (ok (pow a b))
-)
